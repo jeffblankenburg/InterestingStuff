@@ -1,0 +1,9 @@
+# 2017
+CMH (HOME)
+MSP (5)
+LAS (2)
+SEA (2)
+STL
+ORD
+LAX
+BUR
