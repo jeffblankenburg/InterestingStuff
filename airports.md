@@ -1,4 +1,4 @@
-* Last updated 4/10/2017
+Last updated 4/10/2017
 
 # 2017
 * CMH (9)
