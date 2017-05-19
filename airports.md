@@ -1,12 +1,12 @@
-Last updated 5/13/2017
+Last updated 5/18/2017
 
 # 2017
-* CMH (16)
+* CMH (18)
 * MSP (7)
 * LAS (2)
 * ATL (3)
 * MCO
-* SEA (4)
+* SEA (6)
 * STL
 * ORD
 * LAX (2)
@@ -16,6 +16,6 @@ Last updated 5/13/2017
 * DEN
 * IND
 * RDU (2)
-* SJC (2)
+* SJC (4)
 * CLT (2)
 * JFK (2)
